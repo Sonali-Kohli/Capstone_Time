@@ -18,6 +18,7 @@ I'm a former Market Researcher<br>I'm actively looking to work for a motivated D
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+About this project from Simplilearn:
 Time series forecasting is used to make calculated predictions based on time stamped historical data with the help of statistics and modeling. In this project, the machine learning models employed aim to predict future sale of items with the help of the data from the given restaurants. 
 The algorithms used to create prediction models are Linear Regression, Random Forest Regressor and XGBoost using Machine learning and LSTM using Deep learning.
 This repository includes the google colab notebook used to create the models and a powerpoint presentation which delivers the end results of the whole analysis in brief.
