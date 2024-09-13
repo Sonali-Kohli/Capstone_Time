@@ -24,6 +24,9 @@ This repository includes the google colab notebook used to create the models and
 
 Presentation: https://docs.google.com/presentation/d/1eGHgNu3xNpl1kkZS_2qo9RO15IYm9jsw/edit?usp=sharing&ouid=103458195777434796371&rtpof=true&sd=true
 
+Kindly follow the Google Colab notebook for detailed analysis and code used.
+
+Main tech stack used in the project:
 Language - Python 
 Libraries - Pandas, Numpy, Matplotlib, Seaborn 
 ML frameworks - Scikit learn, XGBoost 
