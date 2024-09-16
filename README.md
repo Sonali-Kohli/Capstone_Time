@@ -1,4 +1,4 @@
-# Capstone_Time
+# Capstone_TimeSeriesForecasting
 # 💫 About Me:
 I'm a former Market Researcher<br>I'm actively looking to work for a motivated Data Science team<br>I'm currently learning and enhancing on my AI and ML skills 
 
@@ -29,7 +29,7 @@ Kindly follow the Google Colab notebook for detailed analysis and code used.
 
 Main tech stack used in the project:
 Language - Python 
-Libraries - Pandas, Numpy, Matplotlib, Seaborn 
+Libraries - Pandas, Numpy, Matplotlib, Seaborn, Datetime 
 ML frameworks - Scikit learn, XGBoost 
 DL Library- Tensorflow and Keras
 Methods & metrics used - Label Encoder, MinMaxScaler, Mean squared error, Mean absolute percentage error.  
