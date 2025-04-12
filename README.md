@@ -1,6 +1,6 @@
 # Capstone_TimeSeriesForecasting
 # 💫 About Me:
-I'm a former Market Researcher<br>I'm actively looking to work for a motivated Data Science team<br>I'm currently learning and enhancing on my AI and ML skills 
+I'm a fresher Data Scientist<br>I'm actively looking to work for a motivated Data Science team<br>I'm currently learning and enhancing on my AI and ML skills 
 
 
 ## 🌐 Socials:
@@ -18,9 +18,8 @@ I'm a former Market Researcher<br>I'm actively looking to work for a motivated D
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-About this project from Simplilearn:
-Time series forecasting is used to make calculated predictions based on time stamped historical data with the help of statistics and modeling. In this project, the machine learning models employed aim to predict future sale of items with the help of the data from the given restaurants. 
-The algorithms used to create prediction models are Linear Regression, Random Forest Regressor and XGBoost using Machine learning and LSTM using Deep learning.
+In this project, some prediction models are built to predict future sale of items from the given restaurants' data. 
+The algorithms used are Linear Regression, Random Forest Regressor and XGBoost using Machine learning and LSTM using Deep learning.
 This repository includes the google colab notebook used to create the models and a powerpoint presentation which delivers the end results of the whole analysis in brief.
 
 Presentation: https://docs.google.com/presentation/d/1eGHgNu3xNpl1kkZS_2qo9RO15IYm9jsw/edit?usp=sharing&ouid=103458195777434796371&rtpof=true&sd=true
