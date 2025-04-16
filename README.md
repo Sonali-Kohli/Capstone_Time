@@ -11,13 +11,13 @@ I'm a fresher Data Scientist<br>I'm actively looking to work for a motivated Dat
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-In this project, 3 prediction models are built for the sales forecasting from the given restaurants' data. 
-The algorithms used are Random Forest Regressor & XGBoost of Machine learning and LSTM of Deep learning.
+In this project, 3 prediction models are built for the sales forecasting from the given restaurants' data.<br> 
+The algorithms used are Random Forest Regressor & XGBoost of Machine learning and LSTM of Deep learning.<br>
 This repository includes the Notebook analysis used to create the models and a powerpoint presentation (as pdf) which delivers the end results of the whole analysis in brief.
 
-Main tech stack used in the project:
-Language - Python 
-Libraries - Pandas, Numpy, Matplotlib, Seaborn, Datetime 
-ML frameworks - Scikit learn, XGBoost and Random Forest Regressor
-DL Library- Tensorflow, Keras, LSTM, Sequential, Dense, Dropout and TimeseriesGenerator
+Main tech stack used in the project:<br>
+Language - Python<br> 
+Libraries - Pandas, Numpy, Matplotlib, Seaborn, Datetime<br> 
+ML frameworks - Scikit learn, XGBoost and Random Forest Regressor<br>
+DL Library- Tensorflow, Keras, LSTM, Sequential, Dense, Dropout and TimeseriesGenerator<br>
 Methods & metrics used - Label Encoder, MinMaxScaler, Mean absolute error, Root Mean squared error and R2 score
